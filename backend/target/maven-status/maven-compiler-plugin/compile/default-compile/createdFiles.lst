@@ -1,0 +1,10 @@
+com\campusconnect\entity\User$Role.class
+com\campusconnect\controller\StudentController.class
+com\campusconnect\entity\User.class
+com\campusconnect\entity\Opportunity$OpportunityType.class
+com\campusconnect\entity\Student.class
+com\campusconnect\entity\Opportunity.class
+com\campusconnect\entity\SavedOpportunity.class
+com\campusconnect\entity\Opportunity$WorkMode.class
+com\campusconnect\repository\UserRepository.class
+com\campusconnect\entity\Recruiter.class
